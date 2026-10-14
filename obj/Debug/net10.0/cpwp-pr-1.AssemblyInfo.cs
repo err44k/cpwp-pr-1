@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cpwp-pr-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eed31ea335900cdbc9e15c18cffe745f70a5ceb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("cpwp-pr-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cpwp-pr-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
